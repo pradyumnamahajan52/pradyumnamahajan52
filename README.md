@@ -20,7 +20,7 @@ A classic Tic-Tac-Toe game implemented in **C++**.
 ## 📫 Contact Me
 - GitHub: [pradyumnamahajan52](https://github.com/pradyumnamahajan52)
 - LinkedIn: [Pradyumna Mahajan](https://www.linkedin.com/in/pradyumnamahajan52/)
-- Email: [your.email@example.com](mailto:pradyumnamahajan52@gmail.com)
+- Email: [pradyumnamahajan52@gmail.com](mailto:pradyumnamahajan52@gmail.com)
 
 Feel free to explore my repositories and connect with me! 🚀
 
