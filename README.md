@@ -4,10 +4,12 @@
 I'm a passionate developer from India, working on full-stack applications, data structures, and algorithms. I enjoy solving problems, contributing to open-source projects, and building real-world applications.
 
 ## 🛠 Tech Stack
-- **Languages**: Java, C++, Python, JavaScript, TypeScript
-- **Web Development**: React.js, Tailwind CSS, Bootstrap, Vite
+- **Languages**: C, C++, Java, Python, PHP, GoLang, JavaScript, TypeScript, C#
+- **Web Development**: React.js, Bootstrap, Tailwind CSS , Vite, NextJS, Angular
+- **Frameworks**: ElectronJS, Angular
+- **Mobile Development** Android (JAVa), React Native
 - **Backend**: Django, Spring Boot, Flask, Node.js, Express.js
-- **Databases**: MySQL, PostgreSQL, SQLite
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB, Firebase 
 - **Tools & Platforms**: Git, GitHub, Docker, AWS, Electron.js
 
 ## 📌 Notable Projects
